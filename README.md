@@ -124,6 +124,10 @@ In the context of Image Style Transfer, the techniques can be categorized into t
 + **StyleBoost: Controlling style-content fusion with SVD for text-driven** (Oct 2025) <details><summary>Shujie Zhang et al.</summary>Shujie Zhang, Jingyue Wang, Meiqing Wang, Yuanxiang Fang, Huimin Liu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.sciencedirect.com/science/article/pii/S0925231225025159)
 
++ **CleanStyle: Plug-and-Play Style Conditioning Purification for Text-to-Image Stylization** (24 Feb 2026) <details><summary>Xiaoman Feng, Mingkun Lei et al.</summary>Xiaoman Feng, Mingkun Lei, Yang Wang, Dingwen Fu, Chi Zhang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.20721)
+[![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/CleanStyle.svg?style=social&label=Star)](https://github.com/Westlake-AGI-Lab/CleanStyle) 
+
 ### Textual-Inversion Based
 
 + **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** (2 Aug 2022) <details><summary>[ICLR 2023] Rinon Gal, Yuval Alaluf et al.</summary>Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or</details>
@@ -168,6 +172,10 @@ In the context of Image Style Transfer, the techniques can be categorized into t
 + **SPG: Style-Prompting Guidance for Style-Specific Content Creation** (15 Aug 2025) <details><summary>Qian Liang et al.</summary>Qian Liang, Zichong Chen, Yang Zhou, Hui Huang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.11476)
 [![Code](https://img.shields.io/github/stars/Rumbling281441/SPG.svg?style=social&label=Star)](https://github.com/Rumbling281441/SPG)
+
++ **StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance** <details><summary>Jaeseok Jeong et al.</summary>Jaeseok Jeong, Junho Kim, Gayoung Lee, Yunjey Choi, Youngjung Uh</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.06827)
+
 
 ### Fine-tune Methods
 
