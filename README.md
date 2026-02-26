@@ -261,6 +261,9 @@ In the context of Image Style Transfer, the techniques can be categorized into t
 + **Subject or Style: Adaptive and Training-Free Mixture of LoRAs** (4 Aug 2025) <details><summary>Jia-Chen Zhang et al.</summary>Jia-Chen Zhang, Yu-Jie Xiong</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02165)
 
++ **CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion** (21 Feb 2026) <details><summary>Yu Li et al.</summary>Yu Li, Yujun Cai, Chi Zhang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.18936)
+
 ## Image-Driven Style Transfer
 
 + **General Image-to-Image Translation with One-Shot Image Guidance** (20 Jul 2023) <details><summary>Bin Cheng, Zuhao Liu et al.</summary>Bin Cheng, Zuhao Liu, Yunbo Peng, Yue Lin</details>
